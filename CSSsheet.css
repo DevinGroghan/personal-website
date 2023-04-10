@@ -1,0 +1,82 @@
+body {
+background-color: lightgoldenrodyellow;
+border: 2px solid red;
+}
+
+h1 {
+	color: blue;
+	font-family: arial;
+	font-size: 300%
+	border: 2px solid red;
+}
+
+h2 {
+	color: blue;
+	font-family: copperplate;
+	font-size: 150%
+	border: 2px solid red;
+}
+
+h3 {
+	color: blue;
+	font-family: copperplate;
+	font-size: 150%
+	border: 2px solid red;
+}
+
+p {
+	color: red
+	font-family: copperplate
+	font-size: 150%
+}
+
+table, th, td {
+	border: 2px solid;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	height: 50px;
+}
+
+td {
+	height: 60px;
+}
+
+a:link {
+	color: blue;
+	background-color: transparent;
+}
+
+a:visited {
+	color: gray;
+	background-color: transparent;
+}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+p {text-align: center;}
+ul {text-align: center;}
+th {text-align: center;}
+td {text-align: center;}
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle; 
+}
+ 
+ 
+
